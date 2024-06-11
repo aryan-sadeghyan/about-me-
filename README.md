@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aryan-sadeghyan
+- 🥸 my portfolio : https://portfolio-aryans-projects-e531359a.vercel.app/
 - 👀 I’m interested in all sort of coding activities
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on full-stack projects 
