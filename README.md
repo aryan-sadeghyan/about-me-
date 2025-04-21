@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @aryan-sadeghyan
-- 🥸 my portfolio : https://portfolio-aryans-projects-e531359a.vercel.app/
-- 👀 I’m interested in all sort of coding activities
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 u can reach me by my email : aryansadeghyan54@gmail.com
 - ⚡ Fun fact: ...
